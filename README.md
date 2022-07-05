@@ -1,6 +1,6 @@
 WIP readme
 This repository contains the code used in my thesis, where I experimented with different computer vision models on camera trap footage. 
-
+Author: Fredrik Örn
 I have used code from multiple other repositories and they have excellent documentation that you should check out to find more good explanations on how the different tools work.
 
 # Setting up MegaDetector and recommendations for ECN
